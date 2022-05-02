@@ -6,9 +6,10 @@ A simple discord nitro generator.
 1. Make sure you have Python installed (Latest Version)
 2. Make sure you have installed everything that is under "requirements"
 3. Extract folder to desktop
-4. Double click Python file and make sure you're connected to internet
-5. Enter amount of Nitro codes you would like to generate
-6. Sit and wait, the code will do everything for you. Come back after its done and check
+4. Make sure codes.txt and your Python file are in the same folder
+5. Double click Python file and make sure you're connected to internet
+6. Enter amount of Nitro codes you would like to generate
+7. Sit and wait, the code will do everything for you. Come back after its done and check
 your codes.txt file for any valid codes
 
 # Requirements
